@@ -4,6 +4,7 @@
 using the JLWGL library that uses Java and OpenGL. 
 
 Currently working on: smoother movement animation and feet collision 
+
 Next step: jump animation.
 
 3D model is personally designed.
